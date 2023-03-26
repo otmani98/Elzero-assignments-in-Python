@@ -1,7 +1,7 @@
 # Elzero-assignments-in-Python
 these assignment solutions for Elzero's Course Mastering Python
 
-## These are assignment solutions
+## Explain:
 
 ***every each folder is a week of study in elzero course***
 
