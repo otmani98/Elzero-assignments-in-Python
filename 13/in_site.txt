@@ -1,0 +1,20 @@
+#95-102
+
+in site https://pythex.org/
+
+and https://www.debuggex.com/cheatsheet/regex/python
+
+#assign1
+\w\s
+
+#assign2
+LElzero
+
+#assign3
+\+?\(\d+\)\s\d+-\d{4}
+
+#assign4
+https?://(www.)?\w+.(org|com)(:\d+)?/\w+.(php|py)
+
+#assign5
+\w+ps?   https?   ^h\w+   [h-t]   [^a-d]

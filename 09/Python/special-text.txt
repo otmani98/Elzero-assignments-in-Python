@@ -1,0 +1,4 @@
+/home/yhwach/python_elzero_again/09/Python
+/home/yhwach/python_elzero_again/09/Python
+assign.py
+51
