@@ -5,7 +5,7 @@ these assignment solutions for Elzero's Course Mastering Python
 
 ***every each folder is a week of study in elzero course***
 
-## you can see the whole plane study in this link:
+## you can see the whole plan study in this link:
 
 [Mastering Python Plan](https://elzero.org/study/mastering-python-study-plan/)
 
